@@ -1,0 +1,1 @@
+# Max-sum-in-the-configuration-GFG
